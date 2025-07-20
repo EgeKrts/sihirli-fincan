@@ -163,8 +163,7 @@ Bu proje eğitim amaçlıdır. MIT License.
 
 ## 👨‍💻 Geliştirici
 
-- **GitHub:** [Kullanıcı adınız]
-- **Email:** [Email adresiniz]
+- **GitHub:** EgeKrts
 
 ## 🤝 Katkıda Bulunma
 
