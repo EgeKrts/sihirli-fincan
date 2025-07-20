@@ -2,7 +2,8 @@
 
 Modern ve şık tasarımlı, yapay zeka destekli fal yorumlama sitesi. Kullanıcılar kahve falı, tarot ve el falı kategorilerinde fallarını baktırabilirler.
 
-![Sihirli Fincan](https://via.placeholder.com/800x400/7C3AED/FFFFFF?text=🔮+Sihirli+Fincan)
+<img width="1457" height="917" alt="HomePage" src="https://github.com/user-attachments/assets/1df45c8a-27cc-495e-8b89-72bbeef8e2d6" />
+
 
 ## ✨ Özellikler
 
@@ -10,6 +11,8 @@ Modern ve şık tasarımlı, yapay zeka destekli fal yorumlama sitesi. Kullanıc
   - ☕ Kahve Falı (Görsel Analiz)
   - 🎴 Tarot Kartları (Metin Tabanlı)
   - 🖐️ El Falı (Görsel Analiz)
+
+<img width="1244" height="850" alt="CategoriesPage" src="https://github.com/user-attachments/assets/019bb420-383e-46b9-9a65-351cf25957aa" />
 
 - **🤖 AI Destekli Yorumlama**
   - OpenAI GPT-4 Vision entegrasyonu
@@ -20,11 +23,13 @@ Modern ve şık tasarımlı, yapay zeka destekli fal yorumlama sitesi. Kullanıc
   - Kayıt/Giriş sistemi
   - Kullanıcı paneli
   - Fal geçmişi
+<img width="1178" height="873" alt="Dashboard" src="https://github.com/user-attachments/assets/86583529-4edf-4229-b73b-9509ed74cd77" />
 
 - **💎 Premium Sistem**
   - Ücretsiz 3 fal hakkı
   - Premium sınırsız erişim
   - Abonelik yönetimi
+<img width="731" height="810" alt="SubscribePage" src="https://github.com/user-attachments/assets/83ec175e-79b0-4f3f-b0fe-9802f82455ea" />
 
 - **📱 Modern UI/UX**
   - Responsive tasarım
