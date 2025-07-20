@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+/* Özel stillier */
+@layer base {
+  body {
+    @apply bg-gradient-to-br from-purple-900 via-blue-900 to-indigo-900 min-h-screen;
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@layer components {
+  .mystical-card {
+    @apply bg-white/10 backdrop-blur-lg border border-white/20 rounded-2xl shadow-2xl;
+  }
+  
+  .mystical-button {
+    @apply bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white font-semibold py-3 px-6 rounded-full transition-all duration-300 transform hover:scale-105 shadow-lg;
+  }
+  
+  .mystical-input {
+    @apply bg-white/10 border border-white/30 rounded-lg px-4 py-3 text-white placeholder-white/70 focus:outline-none focus:ring-2 focus:ring-purple-400 focus:border-transparent backdrop-blur-sm;
+  }
+}
